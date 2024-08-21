@@ -45,6 +45,7 @@ header nav ul li a {
     font-weight: bold;
 }
 #hero {
+    background: url('bg2.jpeg') no-repeat center center/cover;
     color: #fff;
     height: 100vh;
     display: flex;
@@ -89,7 +90,8 @@ section {
     text-align: center;
 }
 #features {
-    background: e9ecef;
+    color: #000;
+    background-color:grey;
     text-align: center;
 }
 #features .features-row {
@@ -127,7 +129,7 @@ section {
     transition: transform 0.3s;
 }
 .product-card img {
-    width: 100%;
+    width: 50%;
     height: 200px;
     object-fit: cover;
     border-radius: 10px;
