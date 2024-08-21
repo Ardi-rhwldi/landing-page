@@ -45,7 +45,6 @@ header nav ul li a {
     font-weight: bold;
 }
 #hero {
-    background: url('bg2.jpeg') no-repeat center center/cover;
     color: #fff;
     height: 100vh;
     display: flex;
